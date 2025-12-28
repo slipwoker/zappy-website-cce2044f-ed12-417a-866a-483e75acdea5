@@ -1,63 +1,51 @@
-# יוסי לזרוף - צלם אופנה — Generative Engine Optimization Map
-
-> A צילום אופנה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### בית
-https://yossi-lazarof-fashion-photogra.zappy5.app
+https://example.com
 גלו סטודיו לצילום אופנה מוביל המספק צילומים מקצועיים ויוקרתיים. צרו קשר עוד היום לייעוץ חינם!
 
 ### שירותים
-https://yossi-lazarof-fashion-photogra.zappy5.app/services
+https://example.com/services
 גלו את מגוון שירותי סטודיו לצילום אופנה שלנו: צילום קולקציות, קטלוגים, מגזינים ועוד. התאמה אישית לכל לקוח!
 
 ### תיק עבודות
-https://yossi-lazarof-fashion-photogra.zappy5.app/portfolio
+https://example.com/portfolio
 צפו בתיק העבודות המקצועי שלנו וגלו את הפרויקטים המרשימים שביצענו עבור מעצבים, בוטיקים ומגזינים מובילים.
 
 ### אודות
-https://yossi-lazarof-fashion-photogra.zappy5.app/about
+https://example.com/about
 גלו את הסיפור מאחורי סטודיו לצילום אופנה המוביל בישראל. למדו על הניסיון, הגישה והמחויבות שלנו למצוינות.
 
 ### צור קשר
-https://yossi-lazarof-fashion-photogra.zappy5.app/contact
+https://example.com/contact
 מוכנים להתחיל את הפרויקט הבא שלכם? צרו קשר עכשיו לייעוץ חינם וגלו איך סטודיו לצילום אופנה שלנו יכול לעזור לכם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://yossi-lazarof-fashion-photogra.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://yossi-lazarof-fashion-photogra.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://yossi-lazarof-fashion-photogra.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About יוסי לזרוף - צלם אופנה
-יוסי לזרוף - צלם אופנה is a business in the צילום אופנה industry.
-
-## Target Audience
-- מעצבי אופנה לשיתוף פעולה
-- בעלי בוטיקים
-- מגזיני אופנה
-
-## Industry
-צילום אופנה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://yossi-lazarof-fashion-photogra.zappy5.app/sitemap.xml
-- **Robots.txt**: https://yossi-lazarof-fashion-photogra.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
